@@ -1,5 +1,3 @@
 ## Bem vindos ao meu perfil 🖤
 
-- estou participando do [alura](https:www.alura.com.br)
-- estou me desenvolvendo na linguagem Javascript
-- utilizo esse espaçao para minha organizaçao e compartilhamento de projetos
+Tenho interesse em análise de dados, programação e tecnologia. Atualmente estou desenvolvendo minhas habilidades em Excel, SQL, Power BI(apredendo) e Python, criando projetos para aplicar meus conhecimentos e evoluir continuamente.
